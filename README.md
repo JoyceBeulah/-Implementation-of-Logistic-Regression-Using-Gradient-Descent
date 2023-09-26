@@ -115,16 +115,47 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
+
 Array value of X:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/42045068-a2c4-42e4-8913-fcde2788bdbc)
+
 Array value of Y:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/aff41d26-9c3d-4107-8531-8420da9fecae)
+
 Exam 1-Score graph:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/03720f54-b391-4090-b488-3f5a7eca6fee)
+
 Sigmoid function graph:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/4fa5f881-e348-410b-8d08-98b5c2bae583)
+
 X_Train_grad value:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/da4e301d-0a1d-46d9-b731-f9c9f2dee214)
+
 Y_Train_grad value:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/061c8864-4e34-4ceb-aced-f287af142435)
+
 Print res.X:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/061c8864-4e34-4ceb-aced-f287af142435)
+
 Decision boundary-gragh for exam score:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/df276009-64d1-4648-8142-18ac2e72fe08)
+
 Probability value:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/d28eff8d-4445-4866-ac9e-78d3449d63ae)
+
 Prediction value of mean:
+
+![image](https://github.com/JoyceBeulah/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118343698/5ccd966f-e001-43fe-b6ab-7c25fc66934a)
+
 
 
 ## Result:
